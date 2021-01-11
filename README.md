@@ -24,7 +24,7 @@
   - My first project!
 
 #### Get in Touch
-[<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)[<img src="images/gmail-512.webp" alt="mail icon"/>](mailto:milo.silva234@gmail.com)
+[<img align="center" alt="linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)  [<img  align="center" width="24px" src="images/gmail-512.webp" alt="mail icon"/>](mailto:milo.silva234@gmail.com)
 
 <!--
 **Mr0cket/Mr0cket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
