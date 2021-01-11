@@ -2,21 +2,27 @@
 ## :seedling: Projects I’m working on
 
 ##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
-  - [App](https://github.com/Mr0cket/movieMatch)
-  - [Backend](https://github.com/Mr0cket/movieMatch-backend)
+  - App: https://github.com/Mr0cket/movieMatch
+  - Backend: https://github.com/Mr0cket/movieMatch-backend
+ 
 
 ##### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/). [Socket.io, Chrome Manifest V3]
-  - [Extension](https://github.com/Mr0cket/dazn-chat)
-  - [Backend](https://github.com/Mr0cket/dazn-chat-server)
+  - Extension: https://github.com/Mr0cket/dazn-chat
+  - Backend: https://github.com/Mr0cket/dazn-chat-server
+  - Try out Extension: 
 
 ## :deciduous_tree: Completed Projects:
 
+##### movie-search App [APIs, React]
+  - app: https://github.com/Mr0cket/movie-search
 
-#### My First Project:
 
-<img align="left" alt="steam logo" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg" />[ Steam Account Switcher](https://github.com/Mr0cket/Steam-Account-Switcher)
+##### <img align="left" alt="steam logo" width="20px" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg" /> Steam Account Switcher - Automatically Switch between Steam accounts! [windows script, registry]
+  - source: https://github.com/Mr0cket/Steam-Account-Switcher
+  - My first project!
 
-#### [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)   Get in Touch
+#### [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/) Get in Touch
+
 <!--
 **Mr0cket/Mr0cket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
