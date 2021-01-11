@@ -1,4 +1,4 @@
-<img src="images/rocket-header-1.jpeg" alt="header pic"/>
+<img src="images/Rocket-header-1.jpeg" alt="header pic"/>
 
 
 ## :seedling: Projects I’m working on
