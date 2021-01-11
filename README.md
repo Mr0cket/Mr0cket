@@ -19,7 +19,7 @@
 #### [<img align="center" alt="linkedin logo" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)   Get in Touch
 
 
-#### My First Project!:
+#### My First Project:
 
 <img align="left" alt="steam logo" width="26px" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg" />[ Steam Account Switcher](https://github.com/Mr0cket/Steam-Account-Switcher)
 <!--
