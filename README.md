@@ -1,5 +1,5 @@
 
-### :seedling: Projects I’m working on
+## :seedling: Projects I’m working on
 
 ##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun!
 - React-Native, Socket.Io, Firebase
@@ -13,7 +13,7 @@
   - [Extension](https://github.com/Mr0cket/dazn-chat)
   - [Backend](https://github.com/Mr0cket/dazn-chat-server)
 
-### :deciduous_tree: Completed Projects:
+## :deciduous_tree: Completed Projects:
 
 
 #### My First Project:
