@@ -1,4 +1,4 @@
-# Welcome
+<img src="images/rocket-header-1.jpg" alt="header pic"/>
 
 
 ## :seedling: Projects I’m working on
