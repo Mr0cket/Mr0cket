@@ -2,20 +2,19 @@
 
 ### 🔭 Projects I’m working on: 
 
-#### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to choose movies
-- Built with:
+#### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun!
+##### Built with:
   - React-Native, Socket.Io, Firebase, 
-- source Repos
+##### source Repos
   - [App](https://github.com/Mr0cket/movieMatch)
   - [Backend](https://github.com/Mr0cket/movieMatch-backend)
 
-#### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching a sports event on [DAZN](https://www.dazn.com/)
-- Built with:
-  - Socket.io
-  - Chrome Extensions
-  - Manifest V3
+#### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/)
+
+##### Built with:
+- Socket.io, Chrome Manifest V3
  
-- Source
+##### Source
   - [Extension](https://github.com/Mr0cket/dazn-chat)
   - [Backend](https://github.com/Mr0cket/dazn-chat-server)
   
