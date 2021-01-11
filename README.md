@@ -1,4 +1,4 @@
-# Greetings, traveller, Welcome to my humble profile
+# Welcome
 
 
 ## :seedling: Projects I’m working on
