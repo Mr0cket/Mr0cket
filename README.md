@@ -4,7 +4,7 @@
 ## :seedling: Projects I’m working on
 
 ##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
-  - App: https://github.com/Mr0cket/movieMatch
+  - App: https://github.com/Mr0cket/movieMatch-app
   - Backend: https://github.com/Mr0cket/movieMatch-backend
  
 
