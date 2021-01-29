@@ -1,12 +1,7 @@
 <img src="images/Rocket-header-1.jpeg" alt="header pic"/>
 
 
-## :seedling: Projects I’m working on
-
-##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
-  - App: https://github.com/Mr0cket/movieMatch-app
-  - Backend: https://github.com/Mr0cket/movieMatch-backend
- 
+## :seedling: Projects I’m working on 
 
 ##### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/). [Socket.io, Chrome Manifest V3]
   - Extension: https://github.com/Mr0cket/dazn-chat
@@ -14,6 +9,11 @@
   - Try out Extension: 
 
 ## :deciduous_tree: Completed Projects:
+
+##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
+  - App: https://github.com/Mr0cket/movieMatch-app
+  - Backend: https://github.com/Mr0cket/movieMatch-backend
+
 
 ##### movie-search App [APIs, React]
   - app: https://github.com/Mr0cket/movie-search
