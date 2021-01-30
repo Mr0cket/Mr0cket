@@ -3,19 +3,19 @@
 
 ## :seedling: Projects I’m working on 
 
-##### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/). [Socket.io, Chrome Manifest V3]
+##### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/). [Socket.io, Chrome Manifest V3, Express]
   - Extension: https://github.com/Mr0cket/dazn-chat
   - Backend: https://github.com/Mr0cket/dazn-chat-server
   - Try out Extension: 
 
 ## :deciduous_tree: Completed Projects:
 
-##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
+##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Redux, Express]
   - App: https://github.com/Mr0cket/movieMatch-app
   - Backend: https://github.com/Mr0cket/movieMatch-backend
 
 
-##### [Cairn](https://github.com/brambrulant/standort-frontend) - Collaborative Project to create a social media application for travellers! [APIs, React]
+##### [Cairn](https://github.com/brambrulant/standort-frontend) - Collaborative Project to create a social media application for travellers! [React, Material UI, Redux]
   - app: https://github.com/brambrulant/standort-frontend
   - Backend: https://github.com/Mr0cket/standort-backend
 
