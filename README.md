@@ -10,7 +10,7 @@
 
 ## :deciduous_tree: Completed Projects:
 
-##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
+##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Firebase]
   - App: https://github.com/Mr0cket/movieMatch-app
   - Backend: https://github.com/Mr0cket/movieMatch-backend
 
