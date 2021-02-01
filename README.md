@@ -15,7 +15,7 @@
   - Backend: https://github.com/Mr0cket/movieMatch-backend
 
 
-##### [Cairn](https://github.com/brambrulant/standort-frontend) - Collaborative Project to create a social media application for travellers! [React, Material UI, Redux]
+##### [Cairn](https://cairn.netlify.app/) - Collaborative Project to create a social media application for travellers! [React, Material UI, Redux]
   - app: https://github.com/brambrulant/standort-frontend
   - Backend: https://github.com/Mr0cket/standort-backend
 
