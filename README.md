@@ -7,12 +7,14 @@
   - Extension: https://github.com/Mr0cket/dazn-chat
   - Backend: https://github.com/Mr0cket/dazn-chat-server
   - Try out Extension: 
-
-## :deciduous_tree: Completed Projects:
-
-##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Redux, Express]
+  
+  ##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Redux, Express]
   - App: https://github.com/Mr0cket/movieMatch-app
   - Backend: https://github.com/Mr0cket/movieMatch-backend
+
+
+
+## :deciduous_tree: Completed Projects:
 
 
 ##### [Cairn](https://cairn.netlify.app/) - Collaborative Project to create a social media application for travellers! [React, Material UI, Redux]
