@@ -1,6 +1,7 @@
 <img src="images/Rocket-header-1.jpeg" alt="header pic"/>
+
 #### Contact Me
-[<img align="center" alt="linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)  [<img  align="center" width="24px" src="images/gmail-512.webp" alt="mail icon"/>](mailto:milo.silva234@gmail.com)
+[<img align="center" alt="linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)[<img  align="center" width="24px" src="images/gmail-512.webp" alt="mail icon"/>](mailto:milo.silva234@gmail.com)
 
 ## :seedling: Projects I’m working on 
 
@@ -25,7 +26,8 @@
 ##### <img align="left" alt="steam logo" width="20px" src="https://static.wikia.nocookie.net/logopedia/images/5/56/Steam_Icon_2014.svg" /> Steam Account Switcher - Automatically Switch between Steam accounts! [windows script, registry]
   - source: https://github.com/Mr0cket/Steam-Account-Switcher
   - My first project!
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuidoWestra&show_icons=true&theme=dark&line_height=27" alt="Guido's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr0cket&show_icons=true&theme=dark&line_height=27" alt="Milo's github stats"/>
 
 
 <!--
