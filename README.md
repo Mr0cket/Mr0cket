@@ -5,12 +5,11 @@
 
 ## :seedling: Projects I’m working on 
 
-##### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/). [Socket.io, Chrome Manifest V3, Express]
+##### 💬 [Dazn Chat](https://github.com/Mr0cket/dazn-chat) - A chrome extension for users to interact while watching the same sports event on [DAZN](https://www.dazn.com/). [websockets, Chrome Manifest V3, nodejs]
   - Extension: https://github.com/Mr0cket/dazn-chat
   - Backend: https://github.com/Mr0cket/dazn-chat-server
-  - Try out Extension: 
   
-  ##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, Socket.Io, Redux, Express]
+  ##### 🎬 [movieMatch](https://github.com/Mr0cket/movieMatch-app) - A native mobile app to make choosing movies fun! [React-Native, websockets, nodejs]
   - App: https://github.com/Mr0cket/movieMatch-app
   - Backend: https://github.com/Mr0cket/movieMatch-backend
 
@@ -28,19 +27,3 @@
   - My first project!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr0cket&show_icons=true&theme=dark&line_height=27" alt="Milo's github stats"/>
-
-
-<!--
-**Mr0cket/Mr0cket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
