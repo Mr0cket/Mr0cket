@@ -1,7 +1,7 @@
 <img src="images/Rocket-header-1.jpeg" alt="header pic"/>
 
 #### Contact Me
-[<img align="center" alt="linkedin logo" width="24px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"/>](https://www.linkedin.com/in/milo-silva/)[<img  align="center" width="24px" src="images/gmail-512.webp" alt="mail icon"/>](mailto:milo.silva234@gmail.com)
+[<img align="center" alt="linkedin logo" width="24px" src="https://user-images.githubusercontent.com/56648742/182017864-b050c10d-4bdb-49dc-ac31-fbec89c7b075.svg"/>](https://www.linkedin.com/in/milo-silva/)[<img  align="center" width="24px" src="images/gmail-512.webp" alt="mail icon"/>](mailto:milo.silva234@gmail.com)
 
 ## :seedling: Projects I’m working on 
 
